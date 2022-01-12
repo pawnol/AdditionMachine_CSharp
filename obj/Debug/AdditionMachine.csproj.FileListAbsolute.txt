@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\bin\Debug\AdditionMachine.exe.config
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\bin\Debug\AdditionMachine.exe
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\bin\Debug\AdditionMachine.pdb
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\obj\Debug\AdditionMachine.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\obj\Debug\AdditionMachine.exe
+C:\Users\Nolan Pawelski\Desktop\AdditionMachine\obj\Debug\AdditionMachine.pdb
